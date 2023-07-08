@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arima you can call me arm
+- 👋 Hi, my name is Panupong you can call me arm 
 - 👀 I’m interested in front-end developer 
-- 🌱 I’m currently learning Html , Css , Bootstrap5 , Js
-- 📫 How to reach me on facebook : https://www.facebook.com/lamda.rose.1
+- 🌱 I’m currently learning Html , Css , Bootstrap5 , Js , ReactJs , NodeJs , MongoDB
+- 📫 Reach me on facebook : https://www.facebook.com/lamda.rose.1
