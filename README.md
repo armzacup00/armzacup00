@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Panupong you can call me arm 
 - 👀 I’m interested in front-end developer 
-- 🌱 I’m currently learning Html , Css , Bootstrap5 , Js , ReactJs , NodeJs , MongoDB
+- 🌱 My Experiance Html , Css , Bootstrap5 , Js , ReactJs , NodeJs , MongoDB , Styled-components , tailwindCss
 - 📫 Reach me on facebook : https://www.facebook.com/lamda.rose.1
